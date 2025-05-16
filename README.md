@@ -20,3 +20,12 @@ Hosted on GitHub Pages
 ## Git Workflow
 - Used branches for feature isolation
 - Merged via pull requests
+
+### ✅ Tests
+
+Basic unit tests were written in `test.js` to verify:
+
+- User input validation
+- Guess comparison logic
+
+Run `test.js` by opening the console in your browser. These ensure core functions behave as expected and are easily extendable.
